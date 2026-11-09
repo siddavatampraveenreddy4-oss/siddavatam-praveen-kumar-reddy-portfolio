@@ -73,7 +73,7 @@ export default function About() {
                   {/* Portrait photo */}
                   <img
                     src={stackImage}
-                    alt={personalInfo.name}
+                    alt="Siddavatam Praveen Kumar Reddy — Data Analyst, TAP Academy student"
                     className="w-full h-[calc(100%-18px)] rounded-xl object-cover object-top"
                   />
                 </div>
