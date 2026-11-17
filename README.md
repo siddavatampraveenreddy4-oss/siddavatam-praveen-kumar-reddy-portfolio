@@ -2,7 +2,7 @@
 
 A modern, responsive developer and data analyst portfolio showcasing exploratory data analysis, interactive dashboards, and machine learning models.
 
-**Live site:** https://myportfolio-mu-livid-84.vercel.app
+**Live site:** https://siddavatam-praveen-kumar-reddy.vercel.app
 
 Built during the placement training program at [TAP Academy](https://thetapacademy.com/) (full-stack development, AI and augmented reality training).
 

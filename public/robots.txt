@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://myportfolio-mu-livid-84.vercel.app/sitemap.xml
+Sitemap: https://siddavatam-praveen-kumar-reddy.vercel.app/sitemap.xml
